@@ -1,0 +1,23 @@
+.search {
+  display: flex;
+  flex-flow: column;
+  align-items: start;
+  margin-bottom: 20px;
+  width: 1000px;
+}
+.search_bar {
+  display: flex;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.search_ico {
+  margin-left: 10px;
+  margin-right: 5px;
+}
+.search_input {
+  width: 100%;
+}
+
+.search_text {
+  margin-left: 150px;
+}

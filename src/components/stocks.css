@@ -1,0 +1,16 @@
+.stocks {
+  display: flex;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  margin-right: auto;
+}
+.stocks_item {
+  margin-right: 20px;
+}
+.stocks_value {
+  margin: 0 5px;
+}
+.stocks_change {
+  color: darkgray;
+  font-size: 16px;
+}

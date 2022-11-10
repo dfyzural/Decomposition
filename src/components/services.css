@@ -1,0 +1,8 @@
+.services {
+  display: flex;
+  margin-bottom: 10px;
+  margin-left: 150px;
+}
+.services_item {
+  margin-right: 10px;
+}
